@@ -86,7 +86,8 @@
 text-align: center;
 margin-left: 23px;
 font-family: 'Roboto', sans-serif;
-font-size: 23px;
+font-size: 18px;
+padding-top: 40PX;
 
 }
 
@@ -94,14 +95,14 @@ font-size: 23px;
 
     padding-right: 25px;
     font-family: 'Roboto', sans-serif;
-    font-size: 13px;
+    font-size: 18px;
 }
 
 #title3 {
 
     padding-right: 25px;
     font-family: 'Roboto', sans-serif;
-    font-size: 13px;
+    font-size: 18px;
 }
 
 #endereço {
