@@ -84,16 +84,16 @@
 #barraLateral h1 {
 
 text-align: center;
-margin-left: 23px;
+padding-left: 15px;
 font-family: 'Roboto', sans-serif;
-font-size: 14px;
+font-size: 13px;
 padding-top: 40PX;
 
 }
 
 #title2 {
 
-    padding-right: 25px;
+    padding-right: 20px;
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
 }
@@ -117,13 +117,14 @@ padding-top: 40PX;
 
     padding-left: 40px;
     font-family: 'Roboto', sans-serif;
-    font-size: 13px;
+    font-size: 10px;
 }
 #barraLateral ul {
 
 list-style-type: none;
 font-family: 'Roboto', sans-serif;
-font-size: 13px;
+font-size: 10px;
+padding-right: 40px;
 
 }
 
