@@ -1,0 +1,136 @@
+.cnteoiner {
+    
+    padding: 2px ;
+    display: grid; 
+    grid-template-columns: auto 30%;
+    border-radius: 5px;
+    
+}
+
+.cnteoiner div {
+     
+    background-color: #ccc ;
+    
+    
+
+
+}
+
+
+#barraLateral {
+
+    border-radius: 5px;
+    background-color: rgb(3, 3, 119);
+    color:#E6E6E6 ;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+
+
+
+}
+
+#Conteudo {
+
+    color: #101010;
+    background-color: #E6E6E6
+    
+
+}
+
+
+
+#Conteudo h1 {
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 40px;
+    padding-top: 30px;
+    font-size: 23px;
+
+
+}
+
+#Conteudo p {
+
+    text-align:center;
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#Conteudo h2 {
+
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#Conteudo h3 {
+
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#grid {
+
+    display: grid;
+    grid-template-columns: 10% auto;
+    background-color: #E6E6E6 ;
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#img {
+
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+
+
+#barraLateral h1 {
+
+text-align: center;
+margin-left: 23px;
+font-family: 'Roboto', sans-serif;
+font-size: 23px;
+
+}
+
+#title2 {
+
+    padding-right: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+#title3 {
+
+    padding-right: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+#endereço {
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    
+}
+
+#hobbies {
+
+    padding-left: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+#barraLateral ul {
+
+list-style-type: none;
+font-family: 'Roboto', sans-serif;
+font-size: 13px;
+
+}
+
